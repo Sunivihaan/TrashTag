@@ -1,7 +1,4 @@
-os
-re
 opencv-python
-time
 shutil
 zipfile
 urllib
